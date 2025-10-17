@@ -1,4 +1,6 @@
 {
 	"$schema": "https://inlang.com/schema/inlang-message-format",
-	"hello_world": "Hello, {name} from uk!"
+	"search_button": "Пошук",
+	"login_button": "Увійти",
+	"logout_button": "Вийти"
 }
