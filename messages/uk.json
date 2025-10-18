@@ -1,6 +1,9 @@
 {
 	"$schema": "https://inlang.com/schema/inlang-message-format",
-	"search_button": "Пошук",
-	"login_button": "Увійти",
-	"logout_button": "Вийти"
+	"sidebar": {
+		"home": "Головна",
+		"login": "Увійти",
+		"logout": "Вийти",
+		"search": "Пошук"
+	}
 }
