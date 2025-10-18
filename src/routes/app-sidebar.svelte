@@ -86,7 +86,7 @@
 			<Sidebar.MenuItem>
 				<Sidebar.MenuButton variant="outline" size="lg">
 					{#snippet child({ props })}
-						<a href="/auth/login" {...props}>
+						<a href="/login" {...props}>
 							<LogInIcon />
 							<span>{m['sidebar.login']()}</span>
 						</a>

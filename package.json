@@ -43,7 +43,7 @@
 		"svelte": "^5.39.5",
 		"svelte-check": "^4.3.2",
 		"svelte-sonner": "^1.0.5",
-		"sveltekit-superforms": "^2.26.1",
+		"sveltekit-superforms": "^2.27.4",
 		"tailwind-merge": "^3.3.1",
 		"tailwind-variants": "^3.1.1",
 		"tailwindcss": "^4.1.13",
@@ -52,5 +52,8 @@
 		"typescript-eslint": "^8.44.1",
 		"vaul-svelte": "^1.0.0-next.7",
 		"vite": "^7.1.7"
+	},
+	"dependencies": {
+		"zod": "^4.1.12"
 	}
 }
